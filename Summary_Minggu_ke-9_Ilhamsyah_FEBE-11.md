@@ -58,7 +58,7 @@ Objective Learnings :
 <br>
 
 ### Selasa, 11 Oktober 2022<br><br>
-Materi : Javascript Object <br> Mentor : Kak Auzan Assidqi <br>
+Materi : Git dan GitHub Lanjutan <br> Mentor : Kak Auzan Assidqi <br>
 Objective Learnings :
 - Peserta mampu memahami kenapa Git dan Github tools yang wajib digunakan <br>
 - Peserta mampu memahami perbedaan antara Git dan Github<br>
