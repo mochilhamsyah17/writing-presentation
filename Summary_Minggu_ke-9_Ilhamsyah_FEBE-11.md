@@ -142,3 +142,44 @@ Objective Learnings :
 
 ### <b>5. Breakpoint</b>
 > Adalah perubahan yang terjadi pada tampilan saat berganti device atau ukuran width.
+
+### <b>6. Flexbox </b>
+> Flexbox atau Flexible Box  merupakan sebuah mode pengaturan atau konsep layout pada CSS yang digunakan untuk mengatur elemen atau container beserta item didalamnya pada halaman web. <br>
+> - Justify Content dan Align Items
+> Justify-content dan align-items adalah dua properti CSS yang membantu kita mendistribusikan item-item di dalam container. Mereka mengontrol bagaimana item diposisikan secara horizontal (main axis) maupun vertikal (cross axis).
+> ```css
+> .container {
+>     display: flex;
+>     justify-content: space-between;
+> }
+> ```
+> Selain center kita juga bisa menggunakan space_between yang akan memberikan jarak antar item sebagai berikut:
+
+> ```css
+> .container {
+>     display: flex;
+>     justify-content: space-between;
+> }
+> ```
+> Berikut ini beberapa nilai lain yang bisa dipakai untuk justify-content:
+> - flex-start (default)
+> - flex-end
+> - center
+> - space-between
+> - space-around
+> - space-evenly <br>
+> - Mengontrol Satu Item
+> Selain mengontrol beberapa item secara bersamaan menggunakan teknik yang sebelumnya sudah kita bahas, kita juga bisa mengontrol hanya satu item saja. Misal, kita ingin membuat dua item pertama di sebelah kiri, namun menggeser item logout ke sebelah kanan. <br>
+> Untuk melakukan hal tersebut ada sebuah teknik lama, yaitu dengan mengatur margin-nya menjadi auto.
+> ```css
+> .logout {
+>     margin-left: auto;
+> }
+> ```
+
+### <b>7. Boostrap </b
+> Bootstrap adalah framework CSS yang bersifat Free dan Open Source. Bootstrap menyediakan class-class CSS dan beberapa fungsi Javascript untuk mempermudah pembuatan web. <br>
+> Kita dapat menggunakan bootstrap dengan mendownload filenya, dan menaruh file tersebut pada folder project kita dan di link pada file html yang akan digunakan:
+> ```css
+> <link rel="stylesheet" href="css/bootstrap.min.css" />
+> ```
