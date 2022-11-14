@@ -177,7 +177,7 @@ Objective Learnings :
 > }
 > ```
 
-### <b>7. Boostrap </b
+  ### <b>7. Boostrap </b>
 > Bootstrap adalah framework CSS yang bersifat Free dan Open Source. Bootstrap menyediakan class-class CSS dan beberapa fungsi Javascript untuk mempermudah pembuatan web. <br>
 > Kita dapat menggunakan bootstrap dengan mendownload filenya, dan menaruh file tersebut pada folder project kita dan di link pada file html yang akan digunakan:
 > ```css
